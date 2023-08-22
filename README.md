@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-    🌐 <a href="https://sensuicreations.pp.ua">Personal Website</a> | 🌐 <a href="https://sensui-useless-apis.codersensui.repl.co">APIs Project</a> | 📬 <a href="https://m.facebook.com/JeanLewis345">Facebook</a> | 💬 <a href="https://t.me/CoderSensui">Telegram</a>
+    🌐 <a href="https://sensuicreations.pp.ua">Personal Website</a> | 🌐 <a href="https://sensui-useless-apis.codersensui.repl.co">APIs Project</a> | 📬 <a href="https://m.facebook.com/JeanLewis345">Facebook</a> | 💬 <a href="https://t.me/CoderSensui">Telegram</a> | 📧 <a href="mailto:kolelatztv@gmail.com">Email</a> | 🌟 <a href="https://replit.com/@CoderSensui">Replit</a>
 </p>
 
 ---
 
 <p align="center">
-    &#128170; Thank you for visiting! Feel free to connect with me and let's learn and grow together. &#127793;
+    🌟 Thank you for visiting! Feel free to connect with me and let's learn and grow together. &#127793;
 </p>
