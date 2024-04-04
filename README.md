@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    &#127775; 15 years old | Philippines &#x1F1F5;&#x1F1ED; | Aspiring Developer &#x1F680; | Noob at HTML, CSS, JS, and Node.js &#x2328;
+    &#127775; 16 years old | Philippines &#x1F1F5;&#x1F1ED; | Aspiring Developer &#x1F680; | Noob at HTML, CSS, JS, and Node.js &#x2328;
 </p>
 
 <p align="center">
